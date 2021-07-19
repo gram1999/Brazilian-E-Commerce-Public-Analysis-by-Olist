@@ -1,0 +1,7 @@
+Payment_type,Count of payment_installments
+boleto,19.04%
+credit_card,73.92%
+debit_card,1.47%
+not_defined,0.00%
+voucher,5.56%
+Grand Total,100.00%
